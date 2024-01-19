@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**alextagdev/alextagdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alex, a passionate web developer based in [Craiova]. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🔭 **Currently working on:** Developing exciting web projects and enhancing my skills in various technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently learning:** Always expanding my knowledge, with a focus on [SpecificTechnology/Framework/Concept].
+
+💼 **Skills:**
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: PHP, Python, Node.js
+- Database: MySQL
+- Content Management System: WordPress
+- SEO: Specialized in On-Page and Off-Page optimization
+
+👯 **Looking to collaborate on:** Open source projects or any interesting web development initiatives.
+
+💬 **Ask me about:** Web development, WordPress, SEO, or anything related to the digital realm.
+
+📫 **How to reach me:** Feel free to reach out to me through [my website](https://alextag.ro) or [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/).
+
+😄 **Pronouns:** He/Him
+
+⚡ **Fun fact:** When I'm not coding, you can find me [movies].
+
+Check out my website [alextag.ro](https://alextag.ro) for more about my work and projects!
