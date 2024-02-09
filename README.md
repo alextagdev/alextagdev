@@ -17,7 +17,7 @@ I'm Alex, a passionate web developer based in [Craiova]. Welcome to my GitHub pr
 
 💬 **Ask me about:** Web development, WordPress, SEO, or anything related to the digital realm.
 
-📫 **How to reach me:** Feel free to reach out to me through [my website](https://alextag.ro) or [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/).
+📫 **How to reach me:** Feel free to reach out to me through [ALEXTAG.RO](https://alextag.ro) or [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/alextagdev/).
 
 😄 **Pronouns:** He/Him
 
